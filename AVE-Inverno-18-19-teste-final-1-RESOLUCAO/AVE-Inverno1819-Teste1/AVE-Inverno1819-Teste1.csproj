@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProjectGuid>{5293820D-9ADB-43FC-B761-BFD2638E64DB}</ProjectGuid>
+    <OutputType>Exe</OutputType>
+    <RootNamespace>AVEInverno1819Teste1</RootNamespace>
+    <AssemblyName>AVE-Inverno1819-Teste1</AssemblyName>
+    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug</OutputPath>
+    <DefineConstants>DEBUG;</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <ExternalConsole>true</ExternalConsole>
+    <PlatformTarget>x86</PlatformTarget>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release</OutputPath>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <ExternalConsole>true</ExternalConsole>
+    <PlatformTarget>x86</PlatformTarget>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Fixture.cs" />
+    <Compile Include="IFixture.cs" />
+    <Compile Include="FixtureInt.cs" />
+    <Compile Include="Address.cs" />
+    <Compile Include="School.cs" />
+    <Compile Include="Student.cs" />
+    <Compile Include="IPropertyFixture.cs" />
+    <Compile Include="PropertyFixture.cs" />
+    <Compile Include="Wrapper.cs" />
+    <Compile Include="ValidationAttribute.cs" />
+    <Compile Include="PropertyFixtureWithAttribute.cs" />
+    <Compile Include="Questao1\Questao1.cs" />
+    <Compile Include="Questao3\Questao3.cs" />
+    <Compile Include="Questao4\Questao4.cs" />
+    <Compile Include="FixtureEnumerable.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Questao1\" />
+    <Folder Include="Questao3\" />
+    <Folder Include="Questao4\" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="matriz.txt" />
+  </ItemGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+</Project>

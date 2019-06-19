@@ -1,0 +1,15 @@
+﻿<Properties StartupConfiguration="{5293820D-9ADB-43FC-B761-BFD2638E64DB}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Fixture.cs">
+    <Files>
+      <File FileName="Fixture.cs" Line="181" Column="1" />
+      <File FileName="FixtureEnumerable.cs" Line="10" Column="7" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.ItemProperties.AVE-Inverno1819-Teste1 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>

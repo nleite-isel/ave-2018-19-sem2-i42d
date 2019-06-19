@@ -1,0 +1,23 @@
+Matriz:
+
+1.
+
+(a) F
+(b) F
+(c) V
+(d) F
+
+2.
+
+(a) F
+(b) F
+(c) V
+(d) V
+
+
+3.
+
+(a) V
+(b) V
+(c) F
+(d) F
