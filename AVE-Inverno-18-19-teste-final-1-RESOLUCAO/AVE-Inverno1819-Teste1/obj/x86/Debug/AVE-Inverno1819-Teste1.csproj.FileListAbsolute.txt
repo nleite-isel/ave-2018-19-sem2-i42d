@@ -1,5 +1,0 @@
-/home/nuno/Nuno/ISEL/Ensino/Ano 18-19/Verao/AVE/LI42D/Aulas/ave-2018-19-sem2-i42d/AVE-Inverno-18-19-teste-final-1-RESOLUCAO/AVE-Inverno1819-Teste1/bin/Debug/AVE-Inverno1819-Teste1.exe
-/home/nuno/Nuno/ISEL/Ensino/Ano 18-19/Verao/AVE/LI42D/Aulas/ave-2018-19-sem2-i42d/AVE-Inverno-18-19-teste-final-1-RESOLUCAO/AVE-Inverno1819-Teste1/bin/Debug/AVE-Inverno1819-Teste1.pdb
-/home/nuno/Nuno/ISEL/Ensino/Ano 18-19/Verao/AVE/LI42D/Aulas/ave-2018-19-sem2-i42d/AVE-Inverno-18-19-teste-final-1-RESOLUCAO/AVE-Inverno1819-Teste1/obj/x86/Debug/AVE-Inverno1819-Teste1.csproj.CoreCompileInputs.cache
-/home/nuno/Nuno/ISEL/Ensino/Ano 18-19/Verao/AVE/LI42D/Aulas/ave-2018-19-sem2-i42d/AVE-Inverno-18-19-teste-final-1-RESOLUCAO/AVE-Inverno1819-Teste1/obj/x86/Debug/AVE-Inverno1819-Teste1.exe
-/home/nuno/Nuno/ISEL/Ensino/Ano 18-19/Verao/AVE/LI42D/Aulas/ave-2018-19-sem2-i42d/AVE-Inverno-18-19-teste-final-1-RESOLUCAO/AVE-Inverno1819-Teste1/obj/x86/Debug/AVE-Inverno1819-Teste1.pdb
