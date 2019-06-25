@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{54E51194-6D06-43F3-9920-D82F8BE7F19E}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Questao6/Questao6.cs">
+    <Files>
+      <File FileName="Questao6/Questao6.cs" Line="6" Column="32" />
+      <File FileName="Questao6/TestSuite.cs" Line="18" Column="17" />
+      <File FileName="Questao6/DelegateTest.cs" Line="6" Column="5" />
+      <File FileName="Questao6/TestCalculator.cs" Line="4" Column="9" />
+      <File FileName="Questao6/UnitTest.cs" Line="13" Column="42" />
+      <File FileName="Questao6/AttributeTest.cs" Line="3" Column="9" />
+      <File FileName="Questao6/ExpectedAttribute.cs" Line="16" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State>
+          <Value>ex.InnerException</Value>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.AVE-Inv-2018-2019-T2 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+</Properties>

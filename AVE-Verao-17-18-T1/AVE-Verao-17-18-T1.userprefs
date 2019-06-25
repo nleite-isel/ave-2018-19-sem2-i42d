@@ -1,0 +1,20 @@
+﻿<Properties StartupConfiguration="{2A8ACC01-8EFC-49A3-9DB1-FB8DFA26D6A4}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="UltimaQuestao/PropertySetters/PropertySetterFunc.cs">
+    <Files>
+      <File FileName="UltimaQuestao/UltimaQuestao.cs" Line="65" Column="48" />
+      <File FileName="UltimaQuestao/Attributes/ConverterAttribute.cs" Line="5" Column="1" />
+      <File FileName="UltimaQuestao/PropertySetters/PropertyPrimitive.cs" Line="26" Column="2" />
+      <File FileName="UltimaQuestao/PropertySetters/PropertyPrimitiveAttribute.cs" Line="5" Column="1" />
+      <File FileName="UltimaQuestao/PropertySetters/PropertySetterFunc.cs" Line="7" Column="10" />
+      <File FileName="UltimaQuestao/PropertySetters/PropertyRef.cs" Line="9" Column="20" />
+      <File FileName="UltimaQuestao/PropertySetters/IPropertySetter.cs" Line="11" Column="11" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.ItemProperties.AVE-Verao-17-18-T1 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>

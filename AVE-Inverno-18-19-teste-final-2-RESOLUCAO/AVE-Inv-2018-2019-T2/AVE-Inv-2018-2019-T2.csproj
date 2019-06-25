@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProjectGuid>{54E51194-6D06-43F3-9920-D82F8BE7F19E}</ProjectGuid>
+    <OutputType>Exe</OutputType>
+    <RootNamespace>AVEInv20182019T2</RootNamespace>
+    <AssemblyName>AVE-Inv-2018-2019-T2</AssemblyName>
+    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug</OutputPath>
+    <DefineConstants>DEBUG;</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <ExternalConsole>true</ExternalConsole>
+    <PlatformTarget>x86</PlatformTarget>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release</OutputPath>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <ExternalConsole>true</ExternalConsole>
+    <PlatformTarget>x86</PlatformTarget>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Questao1a3\Questao1.cs" />
+    <Compile Include="Questao4\Questao4.cs" />
+    <Compile Include="Questao5\Questao5b.cs" />
+    <Compile Include="Questao6\Questao6.cs" />
+    <Compile Include="Questao6\TestSuite.cs" />
+    <Compile Include="Questao6\UnitTest.cs" />
+    <Compile Include="Questao6\IReport.cs" />
+    <Compile Include="Questao6\TestAdd.cs" />
+    <Compile Include="Questao6\TestLength.cs" />
+    <Compile Include="Questao6\ConsoleReport.cs" />
+    <Compile Include="Questao6\AssertException.cs" />
+    <Compile Include="Questao6\TestDiv.cs" />
+    <Compile Include="Questao6\ExpectedAttribute.cs" />
+    <Compile Include="Questao6\AttributeTest.cs" />
+    <Compile Include="Questao6\DelegateTest.cs" />
+    <Compile Include="Questao6\TestCalculator.cs" />
+    <Compile Include="Questao6\TestAttribute.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Questao6\" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="matrizT2.txt" />
+  </ItemGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+</Project>
