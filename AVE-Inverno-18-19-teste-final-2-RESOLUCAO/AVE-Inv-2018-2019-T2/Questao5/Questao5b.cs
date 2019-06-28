@@ -64,7 +64,7 @@ namespace AVEInverno1819testefinal2.Questao4b
             {
                 lists.Add(items.GetEnumerator());
             }
-            for (int i = 0; i < lists.Count(); i++) // Funciona tambem se matriz nao for quadrada 
+            for (int i = 0; i < lists.Count(); i++) // Nao funciona se matriz nao for quadrada 
             {
                 yield return GetSequence1(lists);
             }
